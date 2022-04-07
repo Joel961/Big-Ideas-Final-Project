@@ -8,6 +8,6 @@ Crime: Record of arrests started September 2016, last updated April 2022. https:
 
 Green Spaces: Inventory of green spaces in PGH, last updated February 2021. https://data.wprdc.org/dataset/operations-green-spaces
 
-Playground Equipment: 
+Playground Equipment: Contains number of playgrounds per neighborhood in Pittsburgh, last updated April 2022. https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
 
 #### This project attempts to determine the best neighborhood in Pittsburgh, Pennsylvania by examining the number of arrests, total acreage of green spaces, and availability of playground equipment in each neighborhood.
